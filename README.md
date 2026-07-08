@@ -8,11 +8,3 @@ Because of this automated platform block, I was unable to generate a live produc
 I am truly sorry for the inconvenience this causes.
 
 ---
-
-## 🛠️ Local Setup & Verification Instructions
-Since the live URL deployment was blocked by the platform, please find the instructions below to run and verify the project locally:
-
-### 1. Frontend Setup
-1. Navigate into the frontend directory:
-   ```bash
-   cd frontend
