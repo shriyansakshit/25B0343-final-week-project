@@ -44,7 +44,7 @@ export default function HomePage() {
         </div>
         <div className="card">
           <h3>Reach us</h3>
-          <p className="mono muted">Non-emergency: 04851-224400</p>
+          <p className="mono muted">Non-emergency: +91 6268489732</p>
           <p className="mono muted">Address: BDA Road, Bhopal</p>
         </div>
       </section>
